@@ -1,0 +1,19 @@
+{
+  "name": "denofrontserve",
+  "version": "1.0.0",
+  "description": "> 基于Deno的前端服务框架",
+  "main": "index.js",
+  "scripts": {
+    "start": "./deno run src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zys8119/DenoFrontServe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zys8119/DenoFrontServe/issues"
+  },
+  "homepage": "https://github.com/zys8119/DenoFrontServe#readme"
+}
