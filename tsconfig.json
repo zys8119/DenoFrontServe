@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "sourceMap": true,
+        "types": [
+            "/Users/zhangyunshan/Library/Caches/deno/deps/**"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

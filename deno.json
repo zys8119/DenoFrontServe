@@ -1,0 +1,10 @@
+{
+    "imports": {
+        "lodash": "https://esm.sh/lodash",
+        "aaa/": "http://127.0.0.1:81",
+        "lodash.merge": "https://esm.sh/lodash.merge"
+    },
+    "tasks": {
+        "dev": "deno run --watch --allow-read src/main.ts"
+    }
+}

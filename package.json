@@ -4,7 +4,8 @@
   "description": "> 基于Deno的前端服务框架",
   "main": "index.js",
   "scripts": {
-    "start": "./deno run src/main.ts"
+    "welcome": "./deno run https://deno.land/std@0.103.0/examples/welcome.ts",
+    "start": "./deno task dev"
   },
   "repository": {
     "type": "git",
